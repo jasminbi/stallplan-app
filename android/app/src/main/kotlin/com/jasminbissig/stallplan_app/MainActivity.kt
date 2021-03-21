@@ -1,0 +1,6 @@
+package com.jasminbissig.stallplan_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
